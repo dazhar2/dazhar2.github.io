@@ -4,6 +4,8 @@
             "title": "Project A",
             "date": "MM-DD-YYYY",
             "technologies": "A, B, C",
+            "projectlink": "https://dazhar2.github.io/it202spr2018/projects/p1/index.html",
+            "repolink": "https://github.com/dazhar2/it202spr2018/tree/master/projects/p1",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
         },
@@ -11,6 +13,8 @@
             "title": "Project B",
             "date": "MM-DD-YYYY",
             "technologies": "A, B, C",
+            "projectlink": "https://dazhar2.github.io/it202spr2018/projects/p2/index.html",
+            "repolink": "https://github.com/dazhar2/it202spr2018/tree/master/projects/p2",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
         },
@@ -18,6 +22,8 @@
             "title": "Project C",
             "date": "MM-DD-YYYY",
             "technologies": "A, B, C",
+            "projectlink": "https://dazhar2.github.io/it202spr2018/labs/lab1/index.html",
+            "repolink": "https://github.com/dazhar2/it202spr2018/tree/master/labs/lab1",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
         },
@@ -25,6 +31,8 @@
             "title": "Project D",
             "date": "MM-DD-YYYY",
             "technologies": "A, B, C",
+            "projectlink": "https://dazhar2.github.io/it202spr2018/labs/lab2/index.html",
+            "repolink": "https://github.com/dazhar2/it202spr2018/tree/master/labs/lab2",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
         }
